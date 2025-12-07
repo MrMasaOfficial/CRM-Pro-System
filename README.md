@@ -407,21 +407,6 @@ To contribute improvements:
 
 ---
 
-## 📞 Support
-
-For issues or questions:
-1. Check the **Troubleshooting** section above
-2. Review error messages carefully
-3. Ensure all dependencies are installed
-4. Check Python version compatibility
-
----
-
-## 📄 License
-
-This project is provided as-is for commercial and personal use.
-
----
 
 ## 🎓 Learning Resources
 
@@ -490,4 +475,3 @@ cp crm.db crm_backup.db
 
 ---
 
-**CRM Pro System v1.0.0** - Professional Customer Relationship Management
